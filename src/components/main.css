@@ -1,0 +1,12 @@
+.flat-col {
+    display: flex;
+}
+.flat-row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 50%;
+}
+.flat-map {
+    flex-basis: 50%;
+    height: 100vh;
+}

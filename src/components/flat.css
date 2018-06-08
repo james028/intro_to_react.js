@@ -1,0 +1,16 @@
+.flat-main {
+    width: 50%;
+    height: 200px;
+}
+.flat-background {
+    width: 300px;
+    height: auto;
+    background-size: cover;
+}
+.flat-background:hover {
+    opacity: 0.8;
+}
+.flat-title {
+    font-size: 18px;
+    padding: 5px;
+}
